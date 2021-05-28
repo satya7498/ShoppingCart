@@ -1,4 +1,4 @@
-## Problem Statement: Shoppint CartM Management System
+## Problem Statement: Shopping Cart Management System
 
 Building a java console based application where a user could add products to the cart,
 remove products from basket,calculate billing and view the cart.
